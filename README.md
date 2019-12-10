@@ -6,7 +6,7 @@ In addition, some of the paper were attached my own view.
 
 I divide them into several categories:
     
-(1) [Tactile_Feedback_Screen](#)&ensp;&ensp;&ensp;&ensp;(In this category articles are mainly foucus on "Tactile Feedback Screen". )  
+**(1) [Tactile_Feedback_Screen](#)**&ensp;&ensp;&ensp;&ensp;(In this category articles are mainly foucus on "Tactile Feedback Screen". )  
     |        
     |--[Interaction_research](#)  
     |&ensp;&ensp;&ensp;&ensp;(It focus on HCI in tactile feedback screen. Such as use the screen to improve driving,use experience,visually impaired...)  
@@ -18,8 +18,10 @@ I divide them into several categories:
     &ensp;&ensp;&ensp;&ensp;(There are some paper which I think it is very important in tactile feedback screen. )  
   
   
+
+
   
-(2) [VR_AR](#)&ensp;&ensp;&ensp;&ensp;(In this category articles are mainly foucus on "Virtual Reality" and "Augmented Reality". )
+**(2) [VR_AR](#)**&ensp;&ensp;&ensp;&ensp;(In this category articles are mainly foucus on "Virtual Reality" and "Augmented Reality". )
 &ensp;&ensp;&ensp;&ensp;【TODO】
 
     
