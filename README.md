@@ -9,7 +9,7 @@ I divide them into several categories:
 **(1) [Tactile_Feedback_Screen](#)**&ensp;&ensp;&ensp;&ensp;(In this category articles are mainly foucus on "Tactile Feedback Screen". )  
     &ensp;&ensp;|        
     &ensp;&ensp;|--[Interaction_research](#)  
-    &ensp;&ensp;|&ensp;&ensp;&ensp;&ensp;(It focus on HCI in tactile feedback screen. Such as use the screen to improve driving,use experience,visually impaired...)  
+    &ensp;&ensp;|&ensp;&ensp;&ensp;&ensp;(It focus on HCI in tactile feedback screen such as driving,use experience,visually impaired...)  
     &ensp;&ensp;|--[Hardware manufacturing](#)   
     &ensp;&ensp;|&ensp;&ensp;&ensp;&ensp;(Some paper about the hardware. )  
     &ensp;&ensp;|--[Others](#)    
