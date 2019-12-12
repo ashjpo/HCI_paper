@@ -15,9 +15,9 @@ This folder contain some articles about "Tactile Feedback Screen"
   
   
 ### Important Papers ###   
->>** NOTE: I have listed some of the papers in this project that I think very important. **  
->>&ensp;&ensp;** These papers are very significance in "Tactile Feedback Screen". **  
->>&ensp;&ensp;** Other papers can be found in the folder. **  
+>>**NOTE: I have listed some of the papers in this project that I think very important.**  
+>>&ensp;&ensp;**These papers are very significance in "Tactile Feedback Screen".**  
+>>&ensp;&ensp;**Other papers can be found in the folder.**  
 
 
 >>[Effect of Electrostatic Tactile Feedback on Accuracy and Efficiency of Pan Gestures on Touch Screens](https://github.com/ashjpo/HCI_paper/tree/master/Tactile_Feedback_Screen/Interaction_Research/Effect%20of%20Electrostatic%20Tactile%20Feedback)  
