@@ -8,7 +8,7 @@ This folder contain some articles about "Tactile Feedback Screen"
 >>[Hardware_Manufacturing](https://github.com/ashjpo/HCI_paper/tree/master/Tactile_Feedback_Screen/Hardware_Manufacturing)   
 >>&ensp;&ensp;&ensp;&ensp;(Some paper about the hardware. )  
 >>[Others](https://github.com/ashjpo/HCI_paper/tree/master/Tactile_Feedback_Screen/Others)    
->>&ensp;&ensp;&ensp;&ensp;(Some paper about the HCI in phone,car,and so on. These papers have some connection with tactile feedback. )  
+>>&ensp;&ensp;&ensp;&ensp;(Some paper about the HCI in phone,car,and so on. These have some connection with tactile feedback. )  
 >>[Chinese_Version](https://github.com/ashjpo/HCI_paper/tree/master/Tactile_Feedback_Screen/Chinese_Version)  
 >>&ensp;&ensp;&ensp;&ensp;Note: [Chinese_Version folder](#) is Chinese version.
   
