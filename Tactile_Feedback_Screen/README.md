@@ -16,7 +16,7 @@ This folder contain some articles about "Tactile Feedback Screen"
   
 ### Important Papers ###   
 >>***NOTE:***   
->>&ensp;&ensp;&ensp;&ensp;**(1) I have listed some of the papers in this project that I think very important. These papers are very significance in "Tactile Feedback Screen".**   
+>>&ensp;&ensp;&ensp;&ensp;**(1) I have listed some of the papers in this project that I think very important.In my opinion, these papers are very significance in "Tactile Feedback Screen".**   
 >>&ensp;&ensp;&ensp;&ensp;**(2) Other papers can be found in the folder.**  
 >>&ensp;&ensp;&ensp;&ensp;**(3) The following tags are used for my review and quick browsing.**  
 
