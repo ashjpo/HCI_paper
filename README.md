@@ -1,17 +1,26 @@
 ## HCI Paper ##
+
+### Abstract ###
 In this project I put some paper about interaction which I am very interested.
 
 Most of the paper have been read and some of them are summarized in the document. 
 In addition, some of the paper were attached my own view.
-
-** 
-NOTE:   
-(1) This classification is not based on strict principles. It's just convenient to summarize, record and learn.  
-(2) Some of the papers in these folders fall into two or more of these categories. Duplicate papers will be represented by soft links.  
-(3) Since the original paper is attached to the folder, if there is any infringement, please contact me and I will delete it immediately.  
-
-**
   
+**NOTE:**   
+**(1) This classification is not based on strict principles. It's just convenient to summarize, record and learn.**    
+**(2) Some of the papers in these folders fall into two or more of these categories. Duplicate papers will be represented by soft links.**    
+**(3) Since the original paper is attached to the folder, if there is any infringement, please contact me and I will delete it immediately.**    
+
+  
+  
+### Update List ###
+(1) 12-9 Create the project.  :smiley:  
+(2) 12-10 Arranged the "Tactile Feedback Screen" papers I have seen before and uploaded the notes of them to the project (Chinese Version).  :laughing:  
+(3) 12-12 Upload the English Version of "Tactile Feedback Screen" papers.  :smirk:  
+(4) [TODO] To Upload the paper in "Visual_Impairment" field later.  :sweat_smile:  
+  
+  
+### Structure ###
 I divide them into several categories:
     
 **(1) [Tactile_Feedback_Screen](https://github.com/ashjpo/HCI_paper/tree/master/Tactile_Feedback_Screen)**&ensp;&ensp;&ensp;&ensp;(In this category articles are mainly foucus on "Tactile Feedback Screen". )  
