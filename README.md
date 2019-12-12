@@ -14,8 +14,6 @@ I divide them into several categories:
     &ensp;&ensp;|&ensp;&ensp;&ensp;&ensp;(Some paper about the hardware. )  
     &ensp;&ensp;|--[Others](#)    
     &ensp;&ensp;|&ensp;&ensp;&ensp;&ensp;(Some paper about the HCI in phone,car,and so on. These articles have some connection with tactile feedback. )  
-    &ensp;&ensp;|--[Important_Papers](#)  
-    &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;(There are some paper(soft-link) which I think it is very important in tactile feedback screen. )  
   
   
 
