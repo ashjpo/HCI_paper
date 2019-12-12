@@ -14,10 +14,11 @@
   
   
 ### Update List ###
->>(1) 12-9 Create the project.  :smiley:  
->>(2) 12-10 Arranged the "Tactile Feedback Screen" papers I have seen before and uploaded the notes of them to the project (Chinese Version).  :laughing:  
->>(3) 12-12 Upload the English Version of "Tactile Feedback Screen" papers.  :smirk:  
->>(4) [TODO] To Upload the paper in "Visual_Impairment" field later.  :sweat_smile:  
+>>id | time | summary
+>>(1) | 12-9 | Create the project.  :smiley:  
+>>(2) | 12-10 | Arranged the "Tactile Feedback Screen" papers I have seen before and uploaded the notes of them to the project (Chinese Version).  :laughing:  
+>>(3) | 12-12 | Upload the English Version of "Tactile Feedback Screen" papers.  :smirk:  
+>>(4) | [TODO] | To Upload the paper in "Visual_Impairment" field later.  :sweat_smile:  
   
   
 ### Structure ###
@@ -30,7 +31,7 @@
     >>&ensp;&ensp;|--[Hardware_Manufacturing](https://github.com/ashjpo/HCI_paper/tree/master/Tactile_Feedback_Screen/Hardware_Manufacturing)   
     >>&ensp;&ensp;|&ensp;&ensp;&ensp;&ensp;(Some paper about the hardware. )  
     >>&ensp;&ensp;|--[Others](https://github.com/ashjpo/HCI_paper/tree/master/Tactile_Feedback_Screen/Others)    
-    >>&ensp;&ensp;|&ensp;&ensp;&ensp;&ensp;(Some paper about the HCI in phone,car,and so on. These articles have some connection with tactile feedback. )  
+    >>&ensp;&ensp;|&ensp;&ensp;&ensp;&ensp;(Some paper about the HCI in phone,car,and so on. These are all related to tactile feedback. )  
   
   
 
