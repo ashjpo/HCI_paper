@@ -22,8 +22,8 @@ This folder contain some articles about "Tactile Feedback Screen"
 
 >>Title|Tag
 >>-|-
->>[Effect of Electrostatic Tactile Feedback on Accuracy and Efficiency of Pan Gestures on Touch Screens](https://github.com/ashjpo/HCI_paper/tree/master/Tactile_Feedback_Screen/Interaction_Research/Effect%20of%20Electrostatic%20Tactile%20Feedback)|tag  
->>[Haptic Interface for Vehicular Touch Screens](https://github.com/ashjpo/HCI_paper/tree/master/Tactile_Feedback_Screen/Interaction_Research/Haptic%20Interface%20for%20Vehicular%20Touch%20Screens)  
+>>[Effect of Electrostatic Tactile Feedback on Accuracy and Efficiency of Pan Gestures on Touch Screens](https://github.com/ashjpo/HCI_paper/tree/master/Tactile_Feedback_Screen/Interaction_Research/Effect%20of%20Electrostatic%20Tactile%20Feedback)|pan,accuracy,completion time  
+>>[Haptic Interface for Vehicular Touch Screens](https://github.com/ashjpo/HCI_paper/tree/master/Tactile_Feedback_Screen/Interaction_Research/Haptic%20Interface%20for%20Vehicular%20Touch%20Screens)|e-book,TPad,Chinldren  
 >>[Augmenting children's tablet-based reading experiences with variable friction haptic feedback](https://github.com/ashjpo/HCI_paper/tree/master/Tactile_Feedback_Screen/Interaction_Research/Augmenting%20children's%20tablet-based%20reading%20experiences%20with%20variable%20friction%20haptic%20feedback)  
 >>[Quantifying the Targeting Performance Benefit of Electrostatic Haptic Feedback on Touchscreens](https://github.com/ashjpo/HCI_paper/tree/master/Tactile_Feedback_Screen/Interaction_Research/Quantifying%20the%20Targeting%20Performance%20Benefit%20of%20Electrostatic%20Haptic%20Feedback%20on%20Touchscreens)  
 >>[Fundamental Study on Tactile Cognition through Haptic Feedback Touchscreen](https://github.com/ashjpo/HCI_paper/tree/master/Tactile_Feedback_Screen/Interaction_Research/Fundamental%20Study%20on%20Tactile%20Cognition%20through%20Haptic%20Feedback%20Touchscreen)  
