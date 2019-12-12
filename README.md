@@ -15,6 +15,7 @@
   
 ### Update List ###
 >>id | time | summary
+>>-|-|-
 >>(1) | 12-9 | Create the project.  :smiley:  
 >>(2) | 12-10 | Arranged the "Tactile Feedback Screen" papers I have seen before and uploaded the notes of them to the project (Chinese Version).  :laughing:  
 >>(3) | 12-12 | Upload the English Version of "Tactile Feedback Screen" papers.  :smirk:  
