@@ -7,21 +7,13 @@
 >>In addition, some of the paper were attached my own view.
   
 >>**NOTE:**   
->>**(1) This classification is not based on strict principles. It's just convenient to summarize, record and learn.**    
->>**(2) Some of the papers in these folders fall into two or more of these categories. Duplicate papers will be represented by soft links.**    
->>**(3) Since the original paper is attached to the folder, if there is any infringement, please contact me and I will delete it immediately.**    
+>>&ensp;&ensp;***(1) This classification is not based on strict principles. It's just convenient to summarize, record and learn.***    
+>>&ensp;&ensp;***(2) Some of the papers in these folders fall into two or more of these categories. Duplicate papers will be represented by soft links.***    
+>>&ensp;&ensp;***(3) Since the original paper is attached to the folder, if there is any infringement, please contact me and I will delete it immediately.***    
 
   
   
-### Update List ###
->>id | time | summary
->>-|-|-
->>(1) | 12-9 | Create the project.  :smiley:  
->>(2) | 12-10 | Arranged the "Tactile Feedback Screen" papers I have seen before and uploaded the notes of them to the project (Chinese Version).  :laughing:  
->>(3) | 12-12 | Upload the English Version of "Tactile Feedback Screen" papers.  :smirk:  
->>(4) | [TODO] | To Upload the paper in "Visual_Impairment" field later.  :sweat_smile:  
-  
-  
+
 ### Structure ###
 >>I divide them into several categories:
     
@@ -68,3 +60,16 @@
   
 >>**(6) [Others](https://github.com/ashjpo/HCI_paper/tree/master/Others)**&ensp;&ensp;&ensp;&ensp;(Others)  
 >>&ensp;&ensp;&ensp;&ensp;【TODO】    
+ 
+
+
+ 
+### Update List ###
+>>id | time | summary
+>>-|-|-
+>>(1) | 12-9 | Create the project.  :smiley:  
+>>(2) | 12-10 | Arranged the "Tactile Feedback Screen" papers I have seen before and uploaded the notes of them to the project (Chinese Version).  :laughing:  
+>>(3) | 12-12 | Upload the English Version of "Tactile Feedback Screen" papers.  :smirk:  
+>>(4) | [TODO] | To Upload the paper in "Visual_Impairment" field later.  :sweat_smile:  
+  
+  
